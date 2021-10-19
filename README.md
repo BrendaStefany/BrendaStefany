@@ -2,12 +2,12 @@
 
 - 🌱 Atualmente estou cursando Java pela Rede Cidadã by Accenture, e cursando Full Stack Java pela Generation Brasil
 - 💞️ Estou procurando colaborar em projetos nos quais posso aprender e, se possível, ensinar.
-- 📫 How to reach me, email: brenda.stefany.cavalcanti@gmail.com
+- 📫 E-mail: brenda.stefany.cavalcanti@gmail.com
 
 <div align="center">
   <a href="https://github.com/BrendaStefany">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrendaStefany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendaStefany&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrendaStefany&show_icons=true&theme=demo&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendaStefany&layout=compact&langs_count=7&theme=demo"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Brenda-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
