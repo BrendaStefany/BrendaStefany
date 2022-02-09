@@ -1,6 +1,6 @@
 ## Olá!! Eu sou a Brenda Stefany
 
-- 🌱 Desenvolvedora Java pela Rede Cidadã by Accenture, e cursando Full Stack Java pela Generation Brasil
+- 🌱 Desenvolvedora Java pela Rede Cidadã by Accenture, Desenvolvedora Full Stack Java pela Generation Brasil, e atualmente fazendo um curso de Java intensivo na WoMakersCode,       em parceria com o Ifood, e PicPay.
 - 💞️ Estou procurando colaborar em projetos nos quais posso aprender e, se possível, ensinar.
 - 📫 E-mail: brenda.stefany.cavalcanti@gmail.com
 
