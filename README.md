@@ -1,6 +1,6 @@
 ## Olá!! Eu sou a Brenda Stefany
 
-- 🌱 Desenvolvedora Java Jr pela Rede Cidadã by Accenture, Desenvolvedora Full Stack Java pela Generation Brasil, e atualmente colaboradora na CD2 Retail Tech.
+- 🌱 Desenvolvedora Java Jr pela Rede Cidadã by Accenture, Desenvolvedora Full Stack Java pela Generation Brasil, atualmente cursando Análise e Desenvolvimento de Sistemas na UNINASSAU-PE, e colaboradora na CD2 Retail Tech.
 - 💞️ Estou procurando colaborar em projetos nos quais posso aprender e, se possível, ensinar.
 - 📫 E-mail: brenda.stefany.cavalcanti@gmail.com
 
